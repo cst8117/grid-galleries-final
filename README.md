@@ -1,2 +1,4 @@
-# grid-galleries
-This repository contains the starter files for the Grid Galleries project
+# Grid Galleries
+
+## Objective
+Practice using CSS Grid and media queries to create four responsive galleries. 
